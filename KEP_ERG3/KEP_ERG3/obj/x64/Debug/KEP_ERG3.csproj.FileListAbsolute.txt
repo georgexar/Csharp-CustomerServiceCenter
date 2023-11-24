@@ -1,0 +1,16 @@
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\bin\x64\Debug\ClientDatabase.mdb
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\bin\x64\Debug\KEP_ERG3.exe.config
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\bin\x64\Debug\KEP_ERG3.exe
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\bin\x64\Debug\KEP_ERG3.pdb
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.csproj.AssemblyReference.cache
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.csproj.SuggestedBindingRedirects.cache
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.DataShow.resources
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.Form1.resources
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.Form2.resources
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.Form3.resources
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.Form4.resources
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.Properties.Resources.resources
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.csproj.GenerateResource.cache
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.csproj.CoreCompileInputs.cache
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.exe
+C:\Users\chchn\source\repos\KEP_ERG3\KEP_ERG3\obj\x64\Debug\KEP_ERG3.pdb
